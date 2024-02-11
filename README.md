@@ -74,6 +74,7 @@ Advantages of web endpoints
 
 Online endpoints deploy models on a web server that can return predictions under the HTTP protocol. Use online endpoints to operationalize models for real-time inference in low-latency synchronous requests. We recommend using them when:
 
+
 •	You have low-latency requirements.
 •	Your model can respond to the request within a relatively short period of time.
 •	The model inputs fit into the HTTP request content.
