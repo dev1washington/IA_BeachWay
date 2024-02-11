@@ -1,27 +1,27 @@
 {
     "identificacao_fluxo_carros": {
       "servico": "reconhecimento_padroes_trafego",
-      "ponto_extremidade": "https://servico.azurewebsites.net/reconhecimento"
+      "ponto_extremidade": "https://servico.azureexample.net/reconhecimento"
     },
     "indicacao_estacionamento": {
       "servico": "direcionamento_estacionamentos",
-      "ponto_extremidade": "https://servico.azurewebsites.net/direcionamento"
+      "ponto_extremidade": "https://servico.azureexample.net/direcionamento"
     },
     "sincronizacao_semaforos": {
       "servico": "sincronizacao_semaforos",
-      "ponto_extremidade": "https://servico.azurewebsites.net/sincronizacao"
+      "ponto_extremidade": "https://servico.azureexample.net/direcionamento"
     },
     "painel_indicativo": {
       "servico": "exibicao_informacoes_trafego",
-      "ponto_extremidade": "https://servico.azurewebsites.net/informacoes"
+      "ponto_extremidade": "https://servico.azureexample.net/direcionamento"
     },
     "promocoes_motoristas": {
       "servico": "gerenciamento_promocoes",
-      "ponto_extremidade": "https://servico.azurewebsites.net/promocoes"
+      "ponto_extremidade": "https://servico.azureexample.net/direcionamento"
     },
     "gerenciamento_saida_estacionamento": {
       "servico": "gerenciamento_saida_estacionamento",
-      "ponto_extremidade": "https://servico.azurewebsites.net/gerenciamento_saida"
+      "ponto_extremidade": "https://servico.azureexample.net/direcionamento"
     }
   }
   
