@@ -59,3 +59,24 @@ Insight (A6): Managing Parking Lot Exits
 
 Encouraging beachgoers to extend their time at the beach or enter the city while easing residents’ return is a creative approach.
 Incentives or targeted information can achieve this.
+
+__________________________________________________________________________________________________________________________________
+
+Vantagens dos pontos de extremidade online
+Os pontos de extremidade online implantam modelos em um servidor Web que pode retornar previsões sob o protocolo HTTP. Use os pontos de extremidade online para operacionalizar modelos para inferência em tempo real em solicitações síncronas de baixa latência. Recomendamos usá-los quando:
+•	Você tem requisitos de baixa latência
+•	Seu modelo pode responder à solicitação em um período de tempo relativamente curto
+•	As entradas do modelo se encaixam no conteúdo HTTP da solicitação
+•	Você precisa escalar verticalmente em termos de número de solicitações
+
+
+Advantages of web endpoints
+
+Online endpoints deploy models on a web server that can return predictions under the HTTP protocol. Use online endpoints to operationalize models for real-time inference in low-latency synchronous requests. We recommend using them when:
+
+•	You have low-latency requirements.
+•	Your model can respond to the request within a relatively short period of time.
+•	The model inputs fit into the HTTP request content.
+•	You need to scale vertically in terms of the number of requests.
+
+
